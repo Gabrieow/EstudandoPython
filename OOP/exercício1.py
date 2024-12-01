@@ -17,7 +17,7 @@ class Carro:    # Construindo a classe
         self.ano = ano
         self.cor = cor
         self.velocidade_maxima = velocidade_maxima
-        self.velocidade = 0     # Atributo para a variável velocidade q vou usar mais tarde
+        self.velocidade = 0     # Atributo para a variável velocidade q vai virar uma instancia da classe
     
     def acelerar(self, multiplicador):  # adicionei um multiplicador aqui pra não precisar ficar digitando o metodo acelerar toda hora
         print("Acelerando!")
