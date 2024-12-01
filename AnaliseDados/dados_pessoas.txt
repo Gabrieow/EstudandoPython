@@ -1,0 +1,6 @@
+Nome,Idade,Cidade,Salario
+Alice,30,São Paulo,3000
+Bob,25,Rio de Janeiro,2500
+Carlos,40,Belo Horizonte,4000
+Diana,35,Porto Alegre,3500
+Elisa,28,Curitiba,2800
